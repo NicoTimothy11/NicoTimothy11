@@ -9,7 +9,7 @@
 Programming Languages:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
-<img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" width="50"/>
+<img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python" alt="Python"/>
 
 
 ### Game Development Tools
