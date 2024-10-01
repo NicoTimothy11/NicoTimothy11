@@ -8,17 +8,17 @@
 ### Skills
 Programming Languages:
 
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
+<img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" width="50"/>
 
 ### Game Development Tools
 Libraries:
 
-![Raylib](https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib-logo.png)
-![Pygame](https://www.pygame.org/pygame_logo.png)
+<img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib-logo.png" alt="Raylib" width="50"/>
+<img src="https://www.pygame.org/pygame_logo.png" alt="Pygame" width="50"/>
 
 ### Tools & Technologies
 Code Editors:
 
-![Visual Studio Code](https://code.visualstudio.com/assets/favicon.ico)
-![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/6/60/Visual_Studio_Logo.svg)
+<img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Visual_Studio_Logo.svg" alt="Visual Studio" width="50"/>
