@@ -8,17 +8,17 @@
 ### Skills
 Programming Languages:
 
-<img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
-<img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python" alt="Python"/>
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
 
 ### Game Development Tools
 Libraries:
 
-<img src="https://img.shields.io/badge/Raylib-lightgrey?style=for-the-badge&logo=raylib" alt="Raylib"/>
-<img src="https://img.shields.io/badge/Pygame-black?style=for-the-badge&logo=pygame" alt="Pygame"/>
+![Raylib](https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib-logo.png)
+![Pygame](https://www.pygame.org/pygame_logo.png)
 
 ### Tools & Technologies
 Code Editors:
 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-blue?style=for-the-badge&logo=visual-studio" alt="Visual Studio"/>
+![Visual Studio Code](https://code.visualstudio.com/assets/favicon.ico)
+![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/6/60/Visual_Studio_Logo.svg)
